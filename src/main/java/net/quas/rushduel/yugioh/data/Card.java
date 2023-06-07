@@ -1,4 +1,4 @@
-package net.quas.rushduel.item.card;
+package net.quas.rushduel.yugioh.data;
 
 import net.quas.rushduel.resources.DataManager;
 import net.quas.rushduel.util.IHasId;

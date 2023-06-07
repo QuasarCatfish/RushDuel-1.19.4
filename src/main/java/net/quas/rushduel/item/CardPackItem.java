@@ -1,4 +1,4 @@
-package net.quas.rushduel.item.pack;
+package net.quas.rushduel.item;
 
 import com.mojang.datafixers.util.Pair;
 import net.minecraft.nbt.CompoundTag;
@@ -14,7 +14,8 @@ import net.minecraft.world.level.Level;
 import net.quas.rushduel.RushDuelMod;
 import net.quas.rushduel.item.ModItemTags;
 import net.quas.rushduel.item.ModItems;
-import net.quas.rushduel.item.card.CardRarity;
+import net.quas.rushduel.yugioh.data.CardRarity;
+import net.quas.rushduel.yugioh.data.CardPack;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 

@@ -1,4 +1,4 @@
-package net.quas.rushduel.item.pack;
+package net.quas.rushduel.item;
 
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.chat.Component;
@@ -12,6 +12,7 @@ import net.minecraft.world.item.TooltipFlag;
 import net.minecraft.world.level.Level;
 import net.quas.rushduel.item.ModItemTags;
 import net.quas.rushduel.item.ModItems;
+import net.quas.rushduel.yugioh.data.StarterDeck;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 

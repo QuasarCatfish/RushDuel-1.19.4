@@ -1,21 +1,11 @@
 package net.quas.rushduel.item;
 
-import mcp.client.Start;
-import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.quas.rushduel.RushDuelMod;
-import net.quas.rushduel.item.card.Card;
-import net.quas.rushduel.item.card.CardItem;
-import net.quas.rushduel.item.pack.CardPackItem;
-import net.quas.rushduel.item.pack.StarterDeckItem;
-import net.quas.rushduel.resources.DataManager;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class ModItems {
 

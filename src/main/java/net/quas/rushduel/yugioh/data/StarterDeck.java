@@ -1,9 +1,5 @@
-package net.quas.rushduel.item.pack;
+package net.quas.rushduel.yugioh.data;
 
-import net.minecraft.nbt.CompoundTag;
-import net.quas.rushduel.item.ModItemTags;
-import net.quas.rushduel.item.card.Card;
-import net.quas.rushduel.item.card.CardRarity;
 import net.quas.rushduel.resources.DataManager;
 import net.quas.rushduel.util.IHasId;
 

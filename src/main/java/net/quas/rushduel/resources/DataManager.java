@@ -1,8 +1,8 @@
 package net.quas.rushduel.resources;
 
-import net.quas.rushduel.item.card.Card;
-import net.quas.rushduel.item.pack.CardPack;
-import net.quas.rushduel.item.pack.StarterDeck;
+import net.quas.rushduel.yugioh.data.Card;
+import net.quas.rushduel.yugioh.data.CardPack;
+import net.quas.rushduel.yugioh.data.StarterDeck;
 
 public class DataManager {
 

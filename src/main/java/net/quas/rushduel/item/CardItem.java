@@ -1,27 +1,20 @@
-package net.quas.rushduel.item.card;
+package net.quas.rushduel.item;
 
 import net.minecraft.ChatFormatting;
-import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.chat.Component;
 import net.minecraft.network.chat.MutableComponent;
-import net.minecraft.network.chat.Style;
 import net.minecraft.network.chat.contents.TranslatableContents;
-import net.minecraft.world.InteractionHand;
-import net.minecraft.world.InteractionResultHolder;
-import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.TooltipFlag;
 import net.minecraft.world.level.Level;
-import net.quas.rushduel.RushDuelMod;
 import net.quas.rushduel.item.ModItemTags;
-import net.quas.rushduel.item.ModItems;
-import net.quas.rushduel.resources.DataManager;
-import org.apache.logging.log4j.core.tools.picocli.CommandLine;
+import net.quas.rushduel.yugioh.data.Card;
+import net.quas.rushduel.yugioh.data.CardRarity;
+import net.quas.rushduel.yugioh.data.CardType;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import org.spongepowered.asm.mixin.Mutable;
 
 import java.util.List;
 

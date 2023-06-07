@@ -1,4 +1,4 @@
-package net.quas.rushduel.item.card;
+package net.quas.rushduel.yugioh.data;
 
 import net.minecraft.world.item.Rarity;
 import org.jetbrains.annotations.NotNull;

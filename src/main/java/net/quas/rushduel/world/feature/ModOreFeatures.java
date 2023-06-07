@@ -1,7 +1,6 @@
 package net.quas.rushduel.world.feature;
 
 import net.minecraft.data.worldgen.BootstapContext;
-import net.minecraft.data.worldgen.features.FeatureUtils;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.tags.BlockTags;
 import net.minecraft.world.level.levelgen.feature.ConfiguredFeature;

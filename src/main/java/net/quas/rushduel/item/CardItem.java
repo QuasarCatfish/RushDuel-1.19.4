@@ -9,7 +9,6 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.TooltipFlag;
 import net.minecraft.world.level.Level;
-import net.quas.rushduel.item.ModItemTags;
 import net.quas.rushduel.yugioh.data.Card;
 import net.quas.rushduel.yugioh.data.CardRarity;
 import net.quas.rushduel.yugioh.data.CardType;

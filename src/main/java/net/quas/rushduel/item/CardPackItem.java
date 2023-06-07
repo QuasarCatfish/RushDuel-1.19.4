@@ -12,8 +12,6 @@ import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.TooltipFlag;
 import net.minecraft.world.level.Level;
 import net.quas.rushduel.RushDuelMod;
-import net.quas.rushduel.item.ModItemTags;
-import net.quas.rushduel.item.ModItems;
 import net.quas.rushduel.yugioh.data.CardRarity;
 import net.quas.rushduel.yugioh.data.CardPack;
 import org.jetbrains.annotations.NotNull;

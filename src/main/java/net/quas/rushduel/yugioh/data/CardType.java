@@ -1,8 +1,5 @@
 package net.quas.rushduel.yugioh.data;
 
-import net.minecraft.world.item.ItemStack;
-import net.quas.rushduel.item.ModItemTags;
-
 public enum CardType {
 
 	UNKNOWN,

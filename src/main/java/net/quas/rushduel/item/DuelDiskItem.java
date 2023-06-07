@@ -23,6 +23,11 @@ public class DuelDiskItem extends Item {
 	}
 
 	@Override
+	public int getMaxStackSize(ItemStack stack) {
+		return 1;
+	}
+
+	@Override
 	public void appendHoverText(@NotNull ItemStack stack, @Nullable Level level, @NotNull List<Component> tooltipComponents, @NotNull TooltipFlag isAdvanced) {
 		tooltipComponents.add(Component.translatable(getDescriptionId(stack) + ".tooltip"));
 		super.appendHoverText(stack, level, tooltipComponents, isAdvanced);

@@ -1,0 +1,9 @@
+{
+  "cardId": "dragons_sage",
+  "cardType": "NORMAL",
+  "attribute": "WATER",
+  "race": "DRAGON",
+  "level": 3,
+  "atk": 1100,
+  "def": 100
+}

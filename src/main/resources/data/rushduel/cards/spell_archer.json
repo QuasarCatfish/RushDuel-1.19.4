@@ -1,0 +1,9 @@
+{
+  "cardId": "spell_archer",
+  "cardType": "NORMAL",
+  "attribute": "WIND",
+  "race": "SPELLCASTER",
+  "level": 3,
+  "atk": 1000,
+  "def": 400
+}

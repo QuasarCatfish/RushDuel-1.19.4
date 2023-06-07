@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "velgearium_ingot",
+  "ingredient": {
+    "item": "rushduel:deepslate_velgearium_ore"
+  },
+  "result": "rushduel:velgearium_ingot"
+}

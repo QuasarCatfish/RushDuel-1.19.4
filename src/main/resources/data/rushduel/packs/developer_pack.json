@@ -1,0 +1,52 @@
+{
+  "packId": "developer_pack",
+  "commonCardsPerPack": 4,
+  "rareCardsPerPack": 1,
+  "cards": {
+    "COMMON": [
+      "torna_the_windweaver",
+      "ansler_the_magical_swordsman",
+      "hydro_magician",
+      "dark_sorcerer",
+      "mystic_dealer",
+      "magical_beast_wolfang",
+      "spell_archer",
+      "shining_shaman",
+      "straynge_cat",
+      "wind_spirits_protection",
+      "magical_stream",
+      "dark_revelation",
+      "curtain_of_sparks",
+      "gravity_press_dragon",
+      "fire_guardian",
+      "dragon_knight_of_darkness",
+      "dragorite",
+      "twin_edge_dragon",
+      "dragons_sage",
+      "dragon_bat",
+      "phoenix_dragon",
+      "draco_the_tiny",
+      "dragonic_pressure",
+      "dragons_inferno",
+      "dragon_encounter",
+      "vengeful_dragons_counterattack"
+    ],
+    "RARE": [
+      "torna_the_windweaver",
+      "mystic_dealer",
+      "dark_revelation",
+      "gravity_press_dragon",
+      "twin_edge_dragon",
+      "dragonic_pressure"
+    ],
+    "SUPER_PARALLEL_RARE": [
+      "sevens_road_magician",
+      "multistrike_dragon_dragias",
+      "yggdrago_the_sky_emperor",
+      "yggdrago_the_sky_emperor_l",
+      "yggdrago_the_sky_emperor_r",
+      "sevensgias_the_magical_dragon_knight",
+      "fusion"
+    ]
+  }
+}

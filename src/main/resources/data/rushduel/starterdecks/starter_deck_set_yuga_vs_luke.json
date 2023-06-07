@@ -1,0 +1,13 @@
+{
+  "deckId": "starter_deck_set_yuga_vs_luke",
+  "cards": [
+    {
+      "cardId": "sevens_road_witch",
+      "rarity": "SUPER_PARALLEL_RARE"
+    }
+  ],
+  "decks": [
+    "starter_deck_luke",
+    "starter_deck_yuga"
+  ]
+}

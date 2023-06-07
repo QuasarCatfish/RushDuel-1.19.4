@@ -1,0 +1,86 @@
+{
+  "deckId": "starter_deck_yuga",
+  "cards": [
+    {
+      "cardId": "sevens_road_magician",
+      "rarity": "SUPER_PARALLEL_RARE"
+    },
+    {
+      "cardId": "torna_the_windweaver",
+      "rarity": "RARE"
+    },
+    {
+      "cardId": "torna_the_windweaver",
+      "rarity": "COMMON",
+      "count": 2
+    },
+    {
+      "cardId": "ansler_the_magical_swordsman",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "hydro_magician",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "dark_sorcerer",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "mystic_dealer",
+      "rarity": "RARE"
+    },
+    {
+      "cardId": "mystic_dealer",
+      "rarity": "COMMON",
+      "count": 2
+    },
+    {
+      "cardId": "magical_beast_wolfang",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "spell_archer",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "shining_shaman",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "straynge_cat",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "wind_spirits_protection",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "magical_stream",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "dark_revelation",
+      "rarity": "RARE"
+    },
+    {
+      "cardId": "dark_revelation",
+      "rarity": "COMMON",
+      "count": 2
+    },
+    {
+      "cardId": "curtain_of_sparks",
+      "rarity": "COMMON",
+      "count": 3
+    }
+  ]
+}

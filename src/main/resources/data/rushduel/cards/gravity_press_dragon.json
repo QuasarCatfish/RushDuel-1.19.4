@@ -1,0 +1,9 @@
+{
+  "cardId": "gravity_press_dragon",
+  "cardType": "EFFECT",
+  "attribute": "EARTH",
+  "race": "DRAGON",
+  "level": 6,
+  "atk": 1500,
+  "def": 1000
+}

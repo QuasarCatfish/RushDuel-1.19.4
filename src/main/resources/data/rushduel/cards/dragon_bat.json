@@ -1,0 +1,9 @@
+{
+  "cardId": "dragon_bat",
+  "cardType": "NORMAL",
+  "attribute": "DARK",
+  "race": "DRAGON",
+  "level": 3,
+  "atk": 1000,
+  "def": 400
+}

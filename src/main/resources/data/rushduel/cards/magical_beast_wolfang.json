@@ -1,0 +1,9 @@
+{
+  "cardId": "magical_beast_wolfang",
+  "cardType": "NORMAL",
+  "attribute": "FIRE",
+  "race": "SPELLCASTER",
+  "level": 3,
+  "atk": 1100,
+  "def": 100
+}

@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rushduel:item/card"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "rushduel:normal_monster": 1
+      },
+      "model": "rushduel:item/card_normal"
+    },
+    {
+      "predicate": {
+        "rushduel:effect_monster": 1
+      },
+      "model": "rushduel:item/card_effect"
+    },
+    {
+      "predicate": {
+        "rushduel:normal_spell": 1
+      },
+      "model": "rushduel:item/card_spell"
+    },
+    {
+      "predicate": {
+        "rushduel:normal_trap": 1
+      },
+      "model": "rushduel:item/card_trap"
+    },
+    {
+      "predicate": {
+        "rushduel:maximum_monster": 1
+      },
+      "model": "rushduel:item/card_maximum"
+    },
+    {
+      "predicate": {
+        "rushduel:fusion_monster": 1
+      },
+      "model": "rushduel:item/card_fusion"
+    }
+  ]
+}

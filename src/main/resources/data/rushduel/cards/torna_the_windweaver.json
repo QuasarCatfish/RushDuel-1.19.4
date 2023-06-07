@@ -1,0 +1,9 @@
+{
+  "cardId": "torna_the_windweaver",
+  "cardType": "EFFECT",
+  "attribute": "WIND",
+  "race": "SPELLCASTER",
+  "level": 6,
+  "atk": 1600,
+  "def": 1000
+}

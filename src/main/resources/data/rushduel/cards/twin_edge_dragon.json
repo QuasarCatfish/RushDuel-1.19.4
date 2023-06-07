@@ -1,0 +1,9 @@
+{
+  "cardId": "twin_edge_dragon",
+  "cardType": "EFFECT",
+  "attribute": "LIGHT",
+  "race": "DRAGON",
+  "level": 3,
+  "atk": 1000,
+  "def": 0
+}

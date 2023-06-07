@@ -1,0 +1,9 @@
+{
+  "cardId": "sevens_road_witch",
+  "cardType": "EFFECT",
+  "attribute": "DARK",
+  "race": "SPELLCASTER",
+  "level": 6,
+  "atk": 1600,
+  "def": 1000
+}

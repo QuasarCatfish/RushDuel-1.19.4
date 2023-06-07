@@ -1,0 +1,9 @@
+{
+  "cardId": "phoenix_dragon",
+  "cardType": "EFFECT",
+  "attribute": "FIRE",
+  "race": "DRAGON",
+  "level": 2,
+  "atk": 500,
+  "def": 500
+}

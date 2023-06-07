@@ -1,0 +1,9 @@
+{
+  "cardId": "dragon_knight_of_darkness",
+  "cardType": "NORMAL",
+  "attribute": "DARK",
+  "race": "DRAGON",
+  "level": 5,
+  "atk": 1600,
+  "def": 1100
+}

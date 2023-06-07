@@ -1,0 +1,33 @@
+{
+  "deckId": "starter_deck_quasar",
+  "cards": [
+    {
+      "cardId": "sevens_road_magician",
+      "rarity": "SUPER_PARALLEL_RARE"
+    },
+    {
+      "cardId": "multistrike_dragon_dragias",
+      "rarity": "SUPER_PARALLEL_RARE"
+    },
+    {
+      "cardId": "yggdrago_the_sky_emperor",
+      "rarity": "SUPER_PARALLEL_RARE"
+    },
+    {
+      "cardId": "yggdrago_the_sky_emperor_l",
+      "rarity": "SUPER_PARALLEL_RARE"
+    },
+    {
+      "cardId": "yggdrago_the_sky_emperor_r",
+      "rarity": "SUPER_PARALLEL_RARE"
+    },
+    {
+      "cardId": "sevensgias_the_magical_dragon_knight",
+      "rarity": "SUPER_PARALLEL_RARE"
+    },
+    {
+      "cardId": "fusion",
+      "rarity": "SUPER_PARALLEL_RARE"
+    }
+  ]
+}

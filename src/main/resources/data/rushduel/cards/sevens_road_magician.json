@@ -1,0 +1,9 @@
+{
+  "cardId": "sevens_road_magician",
+  "cardType": "EFFECT",
+  "attribute": "DARK",
+  "race": "SPELLCASTER",
+  "level": 7,
+  "atk": 2100,
+  "def": 1500
+}

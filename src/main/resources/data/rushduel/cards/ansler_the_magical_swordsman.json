@@ -1,0 +1,9 @@
+{
+  "cardId": "ansler_the_magical_swordsman",
+  "cardType": "NORMAL",
+  "attribute": "FIRE",
+  "race": "SPELLCASTER",
+  "level": 6,
+  "atk": 2000,
+  "def": 500
+}

@@ -1,0 +1,86 @@
+{
+  "deckId": "starter_deck_luke",
+  "cards": [
+    {
+      "cardId": "multistrike_dragon_dragias",
+      "rarity": "SUPER_PARALLEL_RARE"
+    },
+    {
+      "cardId": "gravity_press_dragon",
+      "rarity": "RARE"
+    },
+    {
+      "cardId": "gravity_press_dragon",
+      "rarity": "COMMON",
+      "count": 2
+    },
+    {
+      "cardId": "fire_guardian",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "dragon_knight_of_darkness",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "dragorite",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "twin_edge_dragon",
+      "rarity": "RARE"
+    },
+    {
+      "cardId": "twin_edge_dragon",
+      "rarity": "COMMON",
+      "count": 2
+    },
+    {
+      "cardId": "dragons_sage",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "dragon_bat",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "phoenix_dragon",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "draco_the_tiny",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "dragonic_pressure",
+      "rarity": "RARE"
+    },
+    {
+      "cardId": "dragonic_pressure",
+      "rarity": "COMMON",
+      "count": 2
+    },
+    {
+      "cardId": "dragons_inferno",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "dragon_encounter",
+      "rarity": "COMMON",
+      "count": 3
+    },
+    {
+      "cardId": "vengeful_dragons_counterattack",
+      "rarity": "COMMON",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "rushduel:velgearium_ore",
+    "rushduel:deepslate_velgearium_ore",
+    "rushduel:raw_velgearium_block",
+    "rushduel:velgearium_block"
+  ]
+}

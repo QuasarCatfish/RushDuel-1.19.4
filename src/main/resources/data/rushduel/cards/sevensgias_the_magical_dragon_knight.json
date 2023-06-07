@@ -1,0 +1,14 @@
+{
+  "cardId": "sevensgias_the_magical_dragon_knight",
+  "cardType": "FUSION",
+  "attribute": "DARK",
+  "race": "MAGICAL_KNIGHT",
+  "level": 10,
+  "atk": 3000,
+  "def": 2500,
+  "effectType": "MULTICHOICE",
+  "fusionMaterials": [
+    "sevens_road_magician",
+    "multistrike_dragon_dragias"
+  ]
+}

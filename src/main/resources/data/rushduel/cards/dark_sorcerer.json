@@ -1,0 +1,9 @@
+{
+  "cardId": "dark_sorcerer",
+  "cardType": "NORMAL",
+  "attribute": "DARK",
+  "race": "SPELLCASTER",
+  "level": 4,
+  "atk": 1500,
+  "def": 0
+}

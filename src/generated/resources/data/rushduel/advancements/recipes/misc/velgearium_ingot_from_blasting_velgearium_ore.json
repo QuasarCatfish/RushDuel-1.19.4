@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "rushduel:velgearium_ingot_from_blasting_velgearium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_velgearium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "rushduel:velgearium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_velgearium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rushduel:velgearium_ingot_from_blasting_velgearium_ore"
+    ]
+  }
+}

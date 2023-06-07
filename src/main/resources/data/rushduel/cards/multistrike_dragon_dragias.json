@@ -1,0 +1,9 @@
+{
+  "cardId": "multistrike_dragon_dragias",
+  "cardType": "EFFECT",
+  "attribute": "LIGHT",
+  "race": "DRAGON",
+  "level": 7,
+  "atk": 2500,
+  "def": 1500
+}

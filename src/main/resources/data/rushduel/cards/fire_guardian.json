@@ -1,0 +1,9 @@
+{
+  "cardId": "fire_guardian",
+  "cardType": "NORMAL",
+  "attribute": "FIRE",
+  "race": "DRAGON",
+  "level": 6,
+  "atk": 2100,
+  "def": 400
+}

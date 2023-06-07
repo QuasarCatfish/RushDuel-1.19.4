@@ -1,0 +1,15 @@
+{
+  "cardId": "yggdrago_the_sky_emperor",
+  "cardType": "MAXIMUM",
+  "attribute": "LIGHT",
+  "race": "CYBERSE",
+  "level": 10,
+  "atk": 2000,
+  "def": 0,
+  "effectType": "CONTINUOUS",
+  "maximumAtk": 4000,
+  "maximumType": "CENTER",
+  "maximumLeft": "yggdrago_the_sky_emperor_l",
+  "maximumCenter": "yggdrago_the_sky_emperor",
+  "maximumRight": "yggdrago_the_sky_emperor_r"
+}

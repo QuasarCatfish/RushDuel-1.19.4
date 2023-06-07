@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "V": {
+      "item": "rushduel:velgearium_ingot"
+    }
+  },
+  "pattern": [
+    "VVV",
+    " RV",
+    " V "
+  ],
+  "result": {
+    "item": "rushduel:duel_disk_sevens"
+  },
+  "show_notification": true
+}

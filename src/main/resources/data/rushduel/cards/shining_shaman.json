@@ -1,0 +1,9 @@
+{
+  "cardId": "shining_shaman",
+  "cardType": "EFFECT",
+  "attribute": "LIGHT",
+  "race": "SPELLCASTER",
+  "level": 2,
+  "atk": 500,
+  "def": 0
+}

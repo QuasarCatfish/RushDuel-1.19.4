@@ -1,0 +1,9 @@
+{
+  "cardId": "dragorite",
+  "cardType": "NORMAL",
+  "attribute": "EARTH",
+  "race": "DRAGON",
+  "level": 4,
+  "atk": 1500,
+  "def": 0
+}
